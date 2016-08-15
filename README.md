@@ -1,6 +1,8 @@
 PullZoomView
 ============
 
+下拉顶部图片放大效果
+
 An Android custom ListView and ScrollView with pull to zoom-in.
 <br>
 ![](https://raw.githubusercontent.com/Frank-Zhu/PullZoomView/master/art/pull-to-zoom.gif)
